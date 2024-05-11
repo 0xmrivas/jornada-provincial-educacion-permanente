@@ -1,6 +1,7 @@
 <!-- <h2 class="r-fit-text" style="text-align: center"> IA en el aula: Innovando la Educación del futuro </h2> -->
 
-### Ciberseguridad e Inteligencia artificial: consideraciones y propuestas didácticas
+## Ciberseguridad e Inteligencia artificial:
+#### consideraciones y propuestas didácticas
 
 <img class="r-stretch" style="text-align: center" src="../assets/coverIA&Ciber.webp">
  

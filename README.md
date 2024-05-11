@@ -1,7 +1,7 @@
 # Ciberseguridad e Inteligencia artificial: consideraciones y propuestas didácticas
 
 <p align="center">
-  <img src="assets/logoIES.jpeg" alt="Cover Ciber & IA en el aula">
+  <img src="assets/coverIA&Ciber.webp" alt="Cover Ciber & IA en el aula">
 </p>
 <p align="center">
   <a href="LICENSE">
@@ -9,7 +9,7 @@
     </a>
 </p>
 
-Repositorio para alojar los materiales  de la ponencia en "Ciberseguridad e Inteligencia artificial: consideraciones y propuestas didácticas", realizada el 15 de mayo del 2024 en las jornadas “JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE: ENCUENTRO Y PRÁCTICAS DE INTERÉS” del CEP de Cádiz.
+Repositorio para alojar los materiales  de la ponencia "Ciberseguridad e Inteligencia artificial: consideraciones y propuestas didácticas", realizada el 15 de mayo del 2024 en las jornadas “JORNADA PROVINCIAL DE EDUCACIÓN PERMANENTE: ENCUENTRO Y PRÁCTICAS DE INTERÉS” del CEP de Cádiz.
 
 ## Índice
 

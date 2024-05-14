@@ -18,14 +18,18 @@ Repositorio para alojar los materiales  de la ponencia "Ciberseguridad e Intelig
 - [Licencia](#licencia)
 - [Autoría](#autoria)
 
-## Descripción de la la Actividad
+## Descripción
 
+Esta ponencia se enfoca en la intersección entre la ciberseguridad y la inteligencia artificial, destacando su relevancia educativa. Exploramos cómo estos campos emergentes pueden ser integrados en el aula de forma segura y efectiva.
 
+Se ofrece una guía clara sobre cómo implementar medidas de seguridad digital efectivas en el aula, junto con estrategias para aprovechar la inteligencia artificial de manera ética y segura. El objetivo es proporcionar al profesorado de educación permanente las herramientas necesarias para manejar con confianza la tecnología en sus prácticas pedagógicas.
+
+El contenido está diseñado para desafiar y expandir la comprensión tradicional de la ciberseguridad, equipando con conocimientos y herramientas para crear un entorno educativo digitalmente seguro y enriquecedor. Además, se abordan aspectos clave para facilitar un ambiente de aprendizaje seguro y consciente de los retos que plantean estas tecnologías emergentes.
 
 ## Materiales de la sesión
 
-* [Presentación](https://0xmrivas.github.io/)
-* [Referencias](https://0xmrivas.github.io/)
+* [Presentación](https://0xmrivas.github.io/jornada-provincial-educacion-permanente/slides/)
+* [Referencias](https://0xmrivas.github.io/jornada-provincial-educacion-permanente/referencias/)
 
 ## Autoria
 

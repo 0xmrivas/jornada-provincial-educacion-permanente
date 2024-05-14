@@ -3,13 +3,13 @@
 ## Ciberseguridad e Inteligencia artificial
 #### consideraciones y propuestas didácticas
 
-<img class="r-stretch" style="text-align: center" src="/assets/coverIA&Ciber.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/coverIA&Ciber.webp">
  
 ---
 
 ## Desmitificando la ciberseguridad
 
-<img class="r-stretch" style="text-align: center" src="/assets/desmitificando.png">
+<img class="r-stretch" style="text-align: center" src="../assets/desmitificando.png">
 
 
 ### Mitos
@@ -82,7 +82,7 @@ Estos puntos destacan la frecuencia, el crecimiento, la diversidad de víctimas 
 
 ## Nuetro objetivo: Guía de Supervivencia
 
-<img class="r-stretch" style="text-align: center" src="/assets/guia_supervivencia.png">
+<img class="r-stretch" style="text-align: center" src="../assets/guia_supervivencia.png">
 
 Note:
 Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseguridad" para profesorado.
@@ -100,19 +100,19 @@ Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseg
 
 ## Defensa en profundidad y seguridad por capas
 
-<img class="r-stretch" style="text-align: center" src="/assets/capas.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/capas.webp">
 
 ---
 
 ## Protege tu espacio digital
 
-<img class="r-stretch" style="text-align: center" src="/assets/protege-espacio-digital.png">
+<img class="r-stretch" style="text-align: center" src="../assets/protege-espacio-digital.png">
 
 ---
 
 ### Cuando los USB se vuelven contra nosotros
 
-<img class="r-stretch" style="text-align: center" src="/assets/usb.png">
+<img class="r-stretch" style="text-align: center" src="../assets/usb.png">
 
 
 ### 
@@ -130,7 +130,7 @@ Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseg
 
 ### El Pato en Acción: Demostrando la Seguridad USB"
 
-<img class="r-stretch" style="text-align: center" src="/assets/rubber-ducky.png">
+<img class="r-stretch" style="text-align: center" src="../assets/rubber-ducky.png">
 
 
 ### 
@@ -144,7 +144,7 @@ Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseg
 
 ### Deshabilitar la función de autoarranque de dispositivos USB
 
-<img class="r-stretch" style="text-align: center" src="/assets/autoarranque.jpg">
+<img class="r-stretch" style="text-align: center" src="../assets/autoarranque.jpg">
 
 Note:
 De este modo, si por error conectamos un dispositivo USB infectado a nuestro equipo, el malware o las herramientas que contenga no se activarán automáticamente, y podremos analizar y eliminar esas amenazas con un antivirus. En Windows, por ejemplo, para hacerlo deberemos acceder al icono de Windows > Configuración > Dispositivos > Reproducción automática y desactivar esta opción.
@@ -156,13 +156,13 @@ De este modo, si por error conectamos un dispositivo USB infectado a nuestro equ
 
 * Luego, haremos clic sobre “Analizar con…”
 
-<img class="r-stretch" style="text-align: center" src="/assets/analizar_usb.jpg">
+<img class="r-stretch" style="text-align: center" src="../assets/analizar_usb.jpg">
 
 ---
 
 ### Mantenimiento y salud digital
 
-<img class="r-stretch" style="text-align: center" src="/assets/Mantenimiento-y-salud-digital.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Mantenimiento-y-salud-digital.webp">
 
 Note:
 En esta sección, destacaremos la importancia del mantenimiento regular y la higiene digital. Veremos cómo una adecuada gestión de la limpieza digital mejora la funcionalidad de nuestros dispositivos y refuerza la seguridad. Examinaremos estrategias para mantener nuestros sistemas actualizados y cómo gestionar de manera segura los permisos de las aplicaciones. También discutiremos la importancia de realizar descargas conscientes. 
@@ -170,7 +170,7 @@ En esta sección, destacaremos la importancia del mantenimiento regular y la hig
 
 ### El riesgo del síndrome de Diógenes digital
 
-<img class="r-stretch" style="text-align: center" src="/assets/Diogenes-digital.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Diogenes-digital.webp">
 
 Note: 
 Cada aplicación sin uso puede ser un talón de Aquiles en la armadura digital que salvaguarda nuestra información. Es importante abordar este desorden con una estrategia de limpieza digital meticulosa, eliminando lo que ya no sirve.
@@ -199,7 +199,7 @@ Cada aplicación sin uso puede ser un talón de Aquiles en la armadura digital q
 
 ### Actualizaciones: Escudo digital
 
-<img class="r-stretch" style="text-align: center" src="/assets/Actualizaciones.png">
+<img class="r-stretch" style="text-align: center" src="../assets/Actualizaciones.png">
 
 Note: 
 Tras realizar una limpieza digital exhaustiva en nuestros dispositivos, es importante entender que este esfuerzo, aunque importante, no es suficiente para asegurar una protección completa. La naturaleza dinámica de las amenazas requiere de medidas adicionales, siendo las actualizaciones que nos ofrecen los fabricantes de software una de ellas.
@@ -220,7 +220,7 @@ Las actualizaciones proporcionan correcciones críticas para los sistemas operat
 
 ### Permisos a tu medida
 
-<img class="r-stretch" style="text-align: center" src="/assets/Permisos-a-Tu-Medida.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Permisos-a-Tu-Medida.webp">
 
 Note: 
 Tras depurar nuestro entorno digital y actualizar sistemas y aplicaciones, surge una pregunta esencial: ¿sabemos realmente a qué información acceden las aplicaciones que usamos? 
@@ -241,7 +241,7 @@ Muchas veces, las aplicaciones gratuitas solicitan permisos para acceder a funci
 
 ### Exodus privacy
 
-<img class="r-stretch" style="text-align: center" src="/assets/exodus.png">
+<img class="r-stretch" style="text-align: center" src="../assets/exodus.png">
 
 [Descarga la app]((https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy)) y consulta la [web de la organizacion Exodus](https://reports.exodus-privacy.eu.org/es/) para más información.
 
@@ -250,7 +250,7 @@ Muchas veces, las aplicaciones gratuitas solicitan permisos para acceder a funci
 
 ### Guardianes de contraseñas seguras
 
-<img class="r-stretch" style="text-align: center" src="/assets/guardianes.png">
+<img class="r-stretch" style="text-align: center" src="../assets/guardianes.png">
 
 Note:
 Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y cerrando el acceso a toda nuestra información
@@ -269,7 +269,7 @@ Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y
 
 ### Evaluando nuestra primera línea de defensa
 
-<img class="r-stretch" style="text-align: center" src="/assets/La primera linea de defensa.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/La primera linea de defensa.webp">
 
 
 ### 
@@ -283,14 +283,14 @@ Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y
 
 ### ¿Estás seguro de que nunca has sido hackeado?
 
-<img class="r-stretch" style="text-align: center" src="/assets/pwned.png">
+<img class="r-stretch" style="text-align: center" src="../assets/pwned.png">
 
 [haveibeenpwned](https://haveibeenpwned.com/)
 
 
 ### Construyendo muros robustos
 
-<img class="r-stretch" style="text-align: center" src="/assets/muros.png">
+<img class="r-stretch" style="text-align: center" src="../assets/muros.png">
 
 
 ###
@@ -310,7 +310,7 @@ Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y
 
 ### Tu cofre forte digital
 
-<img class="r-stretch" style="text-align: center" src="/assets/cofre.png">
+<img class="r-stretch" style="text-align: center" src="../assets/cofre.png">
 
 Note:
 Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto más complejas y seguras hacemos nuestras contraseñas, más nos cuesta recordarlas y administrarlas. Aquí es donde entran en juego los gestores de contraseñas, verdaderos cofres digitales que nos liberan de la carga de memorizar incontables claves.
@@ -329,7 +329,7 @@ Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto 
 
 ###
 
-<img class="r-stretch" style="text-align: center" src="/assets/bitwarden.png">
+<img class="r-stretch" style="text-align: center" src="../assets/bitwarden.png">
 
 <small>[Enlace a la web de Bitwarden](https://bitwarden.com/)</small>
 
@@ -337,13 +337,13 @@ Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto 
 
 ## Protección de amenazas en línea
 
-<img class="r-stretch" style="text-align: center" src="/assets/Proteccion-de-amenzas-en-linea.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Proteccion-de-amenzas-en-linea.webp">
 
 ---
 
 ### Detectives digitales
 
-<img class="r-stretch" style="text-align: center" src="/assets/detectives-digitales.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/detectives-digitales.webp">
 
 Note:
 Nos enfocaremos endetectar señales de alerta, como ofertas que parecen demasiado buenas para ser verdad y mensajes que presionan para actuar de manera urgente, tácticas comunes para engañar a los desprevenidos. 
@@ -351,7 +351,7 @@ Nos enfocaremos endetectar señales de alerta, como ofertas que parecen demasiad
 
 ### Fraudes digitales
 
-<img class="r-stretch" style="text-align: center" src="/assets/tipos-de-estafas.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/tipos-de-estafas.webp">
 
 
 ### Riesgos comunes en internet
@@ -378,7 +378,7 @@ Nos enfocaremos endetectar señales de alerta, como ofertas que parecen demasiad
 
 ### Navegando entre sitios webs fraudulentos
 
-<img class="r-stretch" style="text-align: center" src="/assets/deteccion-de-sitios-webs-fraudulentos.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/deteccion-de-sitios-webs-fraudulentos.webp">
 
 Note:
 Los ciberdelincuentes crean sitios web fraudulentos que buscan robar información confidencial, como contraseñas, detalles de pago o información personal que pueden usar para robar tu identidad. Algunos sitios web falsos pueden incluso infectar tu dispositivo con malware o engañarte para que compres productos inexistentes o falsificados.
@@ -390,7 +390,7 @@ Mantén una actitud escéptica y crítica al navegar. Si algo te parece demasiad
 
 ### ¿Cuánto valen tus datos?
 
-<img class="r-stretch" style="text-align: center" src="/assets/cuanto-valen-nuestros-datos.png">
+<img class="r-stretch" style="text-align: center" src="../assets/cuanto-valen-nuestros-datos.png">
 
 <small>[Incibe](https://www.incibe.es/ciudadania/formacion/infografias/lo-que-han-pedido-los-ciberdelincuentes-los-reyes-magos)(Dominio público)</small>
 
@@ -507,14 +507,14 @@ Sustituyendo una 'a' latina por una 'а' cirílica, que se ve igual pero es un c
 
 * La primera clave para protegerse de las estafas en línea es estar al día con las últimas tácticas.
 
-<img class="r-stretch" style="text-align: center" src="/assets/boletines.png">
+<img class="r-stretch" style="text-align: center" src="../assets/boletines.png">
 
 <small>[Suscripción a los boletines de INCIBE](https://www.incibe.es/ciudadania/simplenews/subscriptions/landing)</small>
 
 
 ### Nunca, never, jamais, hacer clic en enlaces no solicitados
 
-<img class="r-stretch" style="text-align: center" src="/assets/no-click.jpeg">
+<img class="r-stretch" style="text-align: center" src="../assets/no-click.jpeg">
 
 Note:
 La prevención es la clave en la protección contra las estafas en línea, y una regla fundamental es evitar hacer clic en enlaces no solicitados.
@@ -540,14 +540,14 @@ Note:
 
 ### Di NO al software pirata
 
-<img class="r-stretch" style="text-align: center" src="/assets/software-pirata.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/software-pirata.webp">
 
 Note: El software pirata conlleva una serie de peligros que no deberían ignorarse. Uno de los principales problemas es la presencia de malware y virus. Estos programas maliciosos pueden dañar gravemente tu dispositivo, robar tus datos personales e incluso secuestrar tu sistema para pedir un rescate. 
 
 
 ### Si no lo veo, no lo creo
 
-<img class="r-stretch" style="text-align: center" src="/assets/malware.png">
+<img class="r-stretch" style="text-align: center" src="../assets/malware.png">
 
 Para asegurarnos de que un archivo es seguro antes de abrirlo o ejecutarlo, [VirusTotal](https://www.virustotal.com/gui/home/upload).
 
@@ -569,14 +569,14 @@ Note:
 
 ### Correos fortificados
 
-<img class="r-stretch" style="text-align: center" src="/assets/correos-fortificados.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/correos-fortificados.webp">
 
 Note: Vamos a ver estrategias para fortalecer la protección de nuestros correos, desde la configuración de filtros antispam hasta el uso de cifrado de extremo a extremo. Además, exploraremos la importancia de la autenticación de dos factores y otras medidas de seguridad para salvaguardar la confidencialidad y la integridad de nuestra correspondencia digital.
 
 
 ### Blindando tu buzón
 
-<img class="r-stretch" style="text-align: center" src="/assets/Filtros-ani-spam.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Filtros-ani-spam.webp">
 
 Note: Como hemos visto anteriormente, los ciberdelincuentes utilizan el correo electrónico como una de las principales vías de ataque, enviando mensajes maliciosos diseñados para robar información, instalar malware o estafar a las víctimas.
 
@@ -613,7 +613,7 @@ Consulta la documentación oficial de tu proveedor de correo:
 
 ### SimpleLogin: Tu aliado en la protección de la privacidad en línea
 
-<img class="r-stretch" style="text-align: center" src="/assets/simplelogin.png">
+<img class="r-stretch" style="text-align: center" src="../assets/simplelogin.png">
 
 <small>[SimpleLogin](https://simplelogin.io/)</small> 
 
@@ -622,12 +622,12 @@ Note: Se puede utilizar en conjunto con servicios de correo electrónico como Gm
 
 ### Maestro...creo que me he dejado la sesión abierta
 
-<img class="r-stretch" style="text-align: center" src="/assets/sessions-abiertas.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/sessions-abiertas.webp">
 
 
 ### 
 
-<img class="r-stretch" style="text-align: center" src="/assets/private.png">
+<img class="r-stretch" style="text-align: center" src="../assets/private.png">
 
 
 ### Beneficios de la navegación privada en entornos educativos
@@ -645,12 +645,12 @@ Note:
 
 ## La LOPD y su aplicación en el ámbito educativo
 
-<img class="r-stretch" style="text-align: center" src="/assets/LOPD.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/LOPD.webp">
 
 
 ## Sus datos, nuestra responsabilidad
 
-<img class="r-stretch" style="text-align: center" src="/assets/sus-datos-nuestra-responsabilidad.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/sus-datos-nuestra-responsabilidad.webp">
 
 
 ### Según la AEPD...
@@ -685,64 +685,64 @@ El nombre y apellidos de un alumno, de sus padres, su dirección, su número de 
 
 ### 
 - Necesitamos sus datos personales
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_1.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_1.png">
 
 
 ### 
 - Estamos legitimados
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_3.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_3.png">
 
 
 ### 
 - Con responsabilidad
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_2.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_2.png">
 
 
 ### 
 - Informando de cada acción
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_4.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_4.png">
 
 
 ### 
 - Pediendo permiso para el uso de Apps
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_5.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_5.png">
 
 
 ### 
 - El centro debe disponer de una guía
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_6.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_6.png">
 
 
 ### 
 - Comunicaciones por canales oficiales
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_7.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_7.png">
 
 
 ### 
 - No se recomienda el uso de whatsapp
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_8.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_8.png">
 
 
 ### 
 - Grabar si, difudir No
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_9.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_9.png">
 
 
 ### 
 - ¿Evento escolar? Avisemos a las familias de la NO difusión.
-<img class="r-stretch" style="text-align: center" src="/assets/decalogo_10.png">
+<img class="r-stretch" style="text-align: center" src="../assets/decalogo_10.png">
 
 ---
 
 ## La inteligencia artificial
 
-<img class="r-stretch" style="text-align: center" src="/assets/IA-SOS.jpeg">
+<img class="r-stretch" style="text-align: center" src="../assets/IA-SOS.jpeg">
 
 ---
 
 ## La Inteligencia Artificial Generativa (IAG)
 
-<img class="r-stretch" style="text-align: center" src="/assets/mod1-cover.png">
+<img class="r-stretch" style="text-align: center" src="../assets/mod1-cover.png">
 
 
 Generación y edición
@@ -759,7 +759,7 @@ Imagen → Vídeo <!-- .element: class="fragment" -->
 
 ## Impacto y retos
 
-<img class="r-stretch" style="text-align: center" src="../assets/Retos-IA-Ciber.webp">
+<img class="r-stretch" style="text-align: center" src="..../assets/Retos-IA-Ciber.webp">
 
 
 ###
@@ -776,7 +776,7 @@ Imagen → Vídeo <!-- .element: class="fragment" -->
 
 ## Don't panic!
 
-<img class="r-stretch" style="text-align: center" src="../assets/calmhd.gif">
+<img class="r-stretch" style="text-align: center" src="..../assets/calmhd.gif">
 
 Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos retos en cuanto a la sofisticación de las amenazas cibernéticas, pero a pesar de ello, todas las medidas de seguridad tradicionales siguen siendo aplicables y fundamentales en la protección contra estas nuevas formas de ataques. 
 
@@ -784,7 +784,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## Las medidas de seguridad "tradicionales" aún son efectivas
 
-<img class="r-stretch" style="text-align: center" src="../assets/medidas-tradicionales.webp">
+<img class="r-stretch" style="text-align: center" src="..../assets/medidas-tradicionales.webp">
 
 
 ### 
@@ -813,7 +813,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## El peligro de las ‘Novias IA’
 
-<img class="r-stretch" style="text-align: center" src="../assets/novias-ia.webp">
+<img class="r-stretch" style="text-align: center" src="..../assets/novias-ia.webp">
 
 <small>Fuente: [webadictos](https://webadictos.com/novias-ia-el-romance-digital-peligroso-para-tu-privacidad-y-seguridad/)</small>
 
@@ -843,7 +843,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ---
 
-<!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
+<!-- .slide: data-background-video="..../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
 ## ¡Gracias por haberme dedicado vuestro tiempo!
 
@@ -851,7 +851,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## ¡ Escanea, y Opina !
 
-<img class="r-stretch" style="text-align: center" src="../assets/qr_feedback.png">
+<img class="r-stretch" style="text-align: center" src="..../assets/qr_feedback.png">
 
 <small>https://app.wooclap.com/MJGERM</small>
 
@@ -859,7 +859,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## Recursos
 
-<img class="r-stretch" style="text-align: center" src="../assets/qr_materiales.png">
+<img class="r-stretch" style="text-align: center" src="..../assets/qr_materiales.png">
 
 <small>https://0xmrivas.github.io/jornada-provincial-educacion-permanente/</small>
 

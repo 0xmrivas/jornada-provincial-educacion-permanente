@@ -851,7 +851,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## ¡ Escanea, y Opina !
 
-<img class="r-stretch" style="text-align: center" src="..../assets/qr_feedback.png">
+<img class="r-stretch" style="text-align: center" src="../assets/qr_feedback.png">
 
 <small>https://app.wooclap.com/MJGERM</small>
 
@@ -859,7 +859,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## Recursos
 
-<img class="r-stretch" style="text-align: center" src="..../assets/qr_materiales.png">
+<img class="r-stretch" style="text-align: center" src="../assets/qr_materiales.png">
 
 <small>https://0xmrivas.github.io/jornada-provincial-educacion-permanente/</small>
 

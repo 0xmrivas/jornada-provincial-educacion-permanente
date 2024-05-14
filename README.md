@@ -14,7 +14,7 @@ Repositorio para alojar los materiales  de la ponencia "Ciberseguridad e Intelig
 ## Índice
 
 - [Descripción](#descripción)
-- [Materiales de la sesión](#materiales)
+- [Materiales de la sesión](#materiales-de-la-sesión)
 - [Licencia](#licencia)
 - [Autoría](#autoria)
 

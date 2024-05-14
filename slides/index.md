@@ -410,7 +410,8 @@ Mantén una actitud escéptica y crítica al navegar. Si algo te parece demasiad
 
 * Verifica el sitio web, [desenmascara.me](https://desenmascara.me/)
 
-* Verifica la antiguedad del dominio, [Whois lookup](https://whois.domaintools.com/)<!-- .element: class="fragment" -->
+* Verifica la antiguedad del dominio, [Whois lookup](https://whois.domaintools.com/)
+<!-- .element: class="fragment" -->
 
 * Buscar opiniones y reseñas<!-- .element: class="fragment" -->
 

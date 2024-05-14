@@ -759,7 +759,7 @@ Imagen → Vídeo <!-- .element: class="fragment" -->
 
 ## Impacto y retos
 
-<img class="r-stretch" style="text-align: center" src="..../assets/Retos-IA-Ciber.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/Retos-IA-Ciber.webp">
 
 
 ###
@@ -776,7 +776,7 @@ Imagen → Vídeo <!-- .element: class="fragment" -->
 
 ## Don't panic!
 
-<img class="r-stretch" style="text-align: center" src="..../assets/calmhd.gif">
+<img class="r-stretch" style="text-align: center" src="../assets/calmhd.gif">
 
 Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos retos en cuanto a la sofisticación de las amenazas cibernéticas, pero a pesar de ello, todas las medidas de seguridad tradicionales siguen siendo aplicables y fundamentales en la protección contra estas nuevas formas de ataques. 
 
@@ -784,7 +784,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## Las medidas de seguridad "tradicionales" aún son efectivas
 
-<img class="r-stretch" style="text-align: center" src="..../assets/medidas-tradicionales.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/medidas-tradicionales.webp">
 
 
 ### 
@@ -813,7 +813,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ## El peligro de las ‘Novias IA’
 
-<img class="r-stretch" style="text-align: center" src="..../assets/novias-ia.webp">
+<img class="r-stretch" style="text-align: center" src="../assets/novias-ia.webp">
 
 <small>Fuente: [webadictos](https://webadictos.com/novias-ia-el-romance-digital-peligroso-para-tu-privacidad-y-seguridad/)</small>
 
@@ -843,7 +843,7 @@ Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos
 
 ---
 
-<!-- .slide: data-background-video="..../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
+<!-- .slide: data-background-video="../assets/chatgpt.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
 ## ¡Gracias por haberme dedicado vuestro tiempo!
 

@@ -11,11 +11,90 @@
 
 <img class="r-stretch" style="text-align: center" src="../assets/desmitificando.png">
 
+
+### Mitos
+
+* Los hackers son personas malintencionadas.<!-- .element: class="fragment" -->
+
+* La ciberseguridad es demasiado compleja para usuarios no expertos.<!-- .element: class="fragment" -->
+
+* Con un antivirus, mi dispositivo está completamente seguro.<!-- .element: class="fragment" -->
+
+* No hay virus en Linux y Mac.<!-- .element: class="fragment" -->
+
+* Si una página web tiene el candadito cerrado y/o verde, es 100% seguro.<!-- .element: class="fragment" -->
+
+Note:
+* Los hackers son personas malintencionadas.
+Realidad: Existen hackers éticos, dedicados a fortalecer la seguridad, a través de pruebas de penetración y análisis de vulnerabilidades.
+
+* La ciberseguridad es demasiado compleja para usuarios no expertos.
+Realidad: Los fundamentos de la ciberseguridad son accesibles para todos, y pequeñas prácticas pueden hacer una gran diferencia.
+
+* Con un antivirus, mi dispositivo está 100% seguro.
+Realidad: Si bien el antivirus es una herramienta útil, no es una solución completa. La ciberseguridad es un enfoque en capas que requiere medidas adicionales.
+
+* Los Macs no pueden ser infectados por virus.
+Realidad: Todos los sistemas operativos son susceptibles a malware; la seguridad requiere vigilancia constante, sin importar la plataforma.
+
+* El phishing es para atacar grandes empresas u organizaciones.
+Realidad: Los ciberataques no tiene un único objetivo; las pequeñas empresas y la ciudadanía suelen ser más vulnerables.
+
+* Si una página web tiene el candadito cerrado y/o verde, es 100% seguro.  
+Realidad: El candado indica una conexión segura, pero no verifica la integridad del sitio. Siempre verifica la URL y la fuente del sitio.
+
+
+* Por seguridad, nunca me conecto a Wi-Fi públicas, solo me conecto en casa o en la oficina.
+
+* Solo recibo correos electrónicos seguros de amigos y familiares.<!-- .element: class="fragment" -->
+
+* No tengo dinero, soy solo un usuario común, los ciberdelincuentes no se fijarán en mí.<!-- .element: class="fragment" -->
+
+Note:
+
+* Nunca accedo a mis cuentas en las Wi-Fi públicas, solo lo hago en casa o en la oficina. 
+Realidad: El 80% de los ataques son internos, la seguridad es mas laxa.
+
+* Solo recibo correos electrónicos seguros de amigos y familiares.
+Realidad: Los ciberdelincuentes pueden suplantar identidades y enviar correos electrónicos falsos. Siempre verifica la autenticidad antes de hacer clic en enlaces o descargar archivos adjuntos.
+
+* No tengo dinero, soy solo un usuario común, los ciberdelincuentes no se fijarán en mí.
+Realidad: Todos los usuarios son blancos potenciales; los ataques no solo buscan dinero, sino también datos personales y acceso a redes.
+
+
+### Algunas realidades...
+
+* En promedio, ocurre un ciberataque cada 39 segundos (más de 1.250 ataques semanales solo en España).<!-- .element: class="fragment" -->
+
+* Los ciberataques aumentaron en un 35% en 2023.<!-- .element: class="fragment" -->
+
+* El 70% de los ciberataques están dirigidos a particulares y pequeñas empresas.<!-- .element: class="fragment" -->
+
+* El costo global de la ciberdelincuencia se estima en $6 trillones anuales, superando el valor del narcotráfico.<!-- .element: class="fragment" -->
+
+Note:
+
+Estos puntos destacan la frecuencia, el crecimiento, la diversidad de víctimas y el impacto económico significativo de los ciberataques, proporcionando una perspectiva impactante y relevante para introducir tu curso.
+
+- [Balance de Ciberseguridad 2022 (INCIBE)](https://portal.mineco.gob.es/RecursosNoticia/mineco/prensa/noticias/2023/Balance_de_Ciberseguridad_2022_INCIBE.pdf)
+
 ---
 
 ## Nuetro objetivo: Guía de Supervivencia
 
 <img class="r-stretch" style="text-align: center" src="../assets/guia_supervivencia.png">
+
+Note:
+Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseguridad" para profesorado.
+
+
+###
+
+* Crear juntos una guía práctica y realista.
+
+* Aprenderemos a protegernos en el mundo digital.<!-- .element: class="fragment" -->
+
+* No hay que temer, ¡estamos preparados!<!-- .element: class="fragment" -->
 
 ---
 
@@ -43,6 +122,8 @@
 * Malware oculto: "Riesgo de virus y spyware".<!-- .element: class="fragment" -->
 
 * Robo de datos: "Extracción silenciosa de info".<!-- .element: class="fragment" -->
+
+* Acceso no autorizado: "Permiten hackeos remotos".<!-- .element: class="fragment" -->
 
 * Infiltración de red: "Puerta trasera a sistemas".<!-- .element: class="fragment" -->
 
@@ -92,8 +173,6 @@ En esta sección, destacaremos la importancia del mantenimiento regular y la hig
 <img class="r-stretch" style="text-align: center" src="../assets/Diogenes-digital.webp">
 
 Note: 
-* Cada app extra es un riesgo potencial. 
-
 Cada aplicación sin uso puede ser un talón de Aquiles en la armadura digital que salvaguarda nuestra información. Es importante abordar este desorden con una estrategia de limpieza digital meticulosa, eliminando lo que ya no sirve.
 
 
@@ -107,6 +186,8 @@ Cada aplicación sin uso puede ser un talón de Aquiles en la armadura digital q
 
 
 ### 
+
+* Cada app extra es un riesgo potencial. 
 
 * Evitar instalaciones innecesarias: seguridad y eficiencia.
 <!-- .element: class="fragment" -->
@@ -175,6 +256,17 @@ Note:
 Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y cerrando el acceso a toda nuestra información
 
 
+### Una llamada a la acción
+
+* [Contraseñas más utilizadas en 2023](https://www.welivesecurity.com/es/contrasenas/contrasenas-mas-utilizadas-2023-seguridad-digital-latinoamerica/)<!-- .element: class="fragment" -->
+
+* El 65% de las contraseñas son débiles, es decir, pueden ser crackeadas en menos de un minuto.<!-- .element: class="fragment" -->
+
+* El 55% de los usuarios reutilizan contraseñas en múltiples sitios web.<!-- .element: class="fragment" -->
+
+* El 21% de los usuarios utilizan la misma contraseña para todas sus cuentas.<!-- .element: class="fragment" -->
+
+
 ### Evaluando nuestra primera línea de defensa
 
 <img class="r-stretch" style="text-align: center" src="../assets/La primera linea de defensa.webp">
@@ -216,7 +308,7 @@ Las contraseñas actúan como los guardianes de nuestra vida digital, abriendo y
 * Considera actualizar tus contraseñas cada cierto tiempo.<!-- .element: class="fragment" -->
 
 
-### Gestores de contraseñas
+### Tu cofre forte digital
 
 <img class="r-stretch" style="text-align: center" src="../assets/cofre.png">
 
@@ -224,7 +316,7 @@ Note:
 Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto más complejas y seguras hacemos nuestras contraseñas, más nos cuesta recordarlas y administrarlas. Aquí es donde entran en juego los gestores de contraseñas, verdaderos cofres digitales que nos liberan de la carga de memorizar incontables claves.
 
 
-### 
+### Gestores de contraseñas
 
 ¿Las ventajas? 
 
@@ -296,6 +388,13 @@ No te dejes engañar por un diseño aparentemente profesional. Los ciberdelincue
 Mantén una actitud escéptica y crítica al navegar. Si algo te parece demasiado bueno para ser verdad, probablemente lo sea. 
 
 
+### ¿Cuánto valen tus datos?
+
+<img class="r-stretch" style="text-align: center" src="../assets/cuanto-valen-nuestros-datos.png">
+
+<small>[Incibe](https://www.incibe.es/ciudadania/formacion/infografias/lo-que-han-pedido-los-ciberdelincuentes-los-reyes-magos)(Dominio público)</small>
+
+
 ### Cómo identificar sitios web falsos
 
 * Revisión de URL y dominio<!-- .element: class="fragment" -->
@@ -317,6 +416,92 @@ Mantén una actitud escéptica y crítica al navegar. Si algo te parece demasiad
 * Buscar opiniones y reseñas<!-- .element: class="fragment" -->
 
 * No te dejes engañar por “señales de confianza”<!-- .element: class="fragment" -->
+
+
+### Ataques Homográficos
+
+- No es que los usuarios sean tontos, es difícil de detectar.<!-- .element: class="fragment" -->
+
+- URLs engañosas.<!-- .element: class="fragment" -->
+
+- Aprovechamiento de similitudes.<!-- .element: class="fragment" -->
+
+- Uso de caracteres especiales.<!-- .element: class="fragment" -->
+
+Note: Explicar cómo los ataques homográficos utilizan URLs que parecen legítimas pero tienen pequeñas diferencias.
+
+
+### Ataques Homograficos
+
+www.iesrafaelalberti.es<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafae1alberti.es
+
+Sustitución simple de caracteres<!-- .element: class="fragment" -->
+
+Sustitución de la letra 'l' por el número '1'<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafaelalberti.com 
+
+Cambio de dominio, cambiando el '.es' por '.com'.<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafaelalbertii.es
+
+Inserción de caracteres adicionales.<!-- .element: class="fragment" -->
+
+Duplicando la última 'i'.<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafalberti.es
+
+Omisión de caracteres.<!-- .element: class="fragment" -->
+ 
+Eliminando la 'e' en 'rafael'.<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafaelalberti.security-update.es
+
+Subdominios engañosos.<!-- .element: class="fragment" -->
+
+Creando un subdominio que parezca legítimo.<!-- .element: class="fragment" -->
+
+
+### 
+
+www.iesrafaelalbertí.es
+
+Uso de caracteres especiales.<!-- .element: class="fragment" -->
+
+Añadiendo una tilde a la última letra.<!-- .element: class="fragment" -->
+
+[https://www.dominios.es/es](https://www.dominios.es/es)<!-- .element: class="fragment" -->
+
+Note:
+Es posible registrar dominios con caracteres especiales, incluidos acentos o tildes. Estos dominios se conocen como dominios internacionalizados o IDN (Internationalized Domain Names). Permiten el uso de caracteres no ASCII, como letras con tildes, cedillas, umlauts, y otros diacríticos propios de diferentes idiomas.
+
+Los navegadores modernos están equipados para manejar estos IDN, mostrándolos en la barra de direcciones en su forma punycode para evitar confusiones y posibles ataques homográficos. El punycode es una representación ASCII de caracteres Unicode, utilizada para convertir nombres de dominio con caracteres especiales en una secuencia de caracteres permitidos en los nombres de dominio.
+
+
+### 
+
+www.iesrafaelаlberti.es
+
+Usando caracteres especiales.<!-- .element: class="fragment" -->
+
+Sustituyendo una 'a' latina por una 'а' cirílica, que se ve igual pero es un carácter diferente.<!-- .element: class="fragment" -->
 
 
 ### Stay secure, Stay informed
@@ -406,6 +591,16 @@ Mantener un sistema de filtrado antispam robusto es clave para evitar que estos 
 * Marcar correos legítimos en spam como "No es spam" enseña al filtro a reconocerlos.<!-- .element: class="fragment" -->
 
 
+### Cómo personalizar un filtro antispam
+
+Consulta la documentación oficial de tu proveedor de correo:
+
+* [Outlook](https://support.office.com/es-es/article/cambiar-el-nivel-de-protecci%C3%B3n-en-el-filtro-de-correo-no-deseado-e89c12d8-9d61-4320-8c57-d982c8d52f6b)
+* [Gmail](https://support.google.com/mail/answer/6579?hl=es)
+* [Yahoo! Mail](https://es.ayuda.yahoo.com/kb/SLN26427.html?_guc_consent_skip=1537958916&guccounter=1)
+* [Mozilla Thunderbird](https://support.mozilla.org/es/kb/thunderbird-y-el-correo-basura)
+
+
 ### Buenas prácticas
 
 * No publiques tu dirección de correo en sitios web, evita que sea recopilada por spammers<!-- .element: class="fragment" -->
@@ -434,6 +629,18 @@ Note: Se puede utilizar en conjunto con servicios de correo electrónico como Gm
 ### 
 
 <img class="r-stretch" style="text-align: center" src="../assets/private.png">
+
+
+### Beneficios de la navegación privada en entornos educativos
+
+* Protección de datos sensibles
+
+* Cierre automático de sesión
+
+Note:
+* Protección de datos sensibles: Al utilizar la navegación privada, se evita que las credenciales de correo electrónico queden almacenadas en el historial del navegador, reduciendo el riesgo de accesos no autorizados.
+
+* Cierre automático de sesión: La mayor ventaja de utilizar la navegación privada es que cuando se cierra la ventana del navegador, toda la información de la sesión, incluyendo el inicio de sesión en la cuenta de correo electrónico, desaparece por completo. Esto evita que otros usuarios puedan acceder a la cuenta después de que te hayas desconectado, ya que no queda rastro de la actividad realizada.
 
 ---
 
@@ -578,7 +785,7 @@ Imagen → Vídeo <!-- .element: class="fragment" -->
 
 <img class="r-stretch" style="text-align: center" src="../assets/calmhd.gif">
 
-Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos retos en cuanto a la sofisticación de las amenazas cibernéticas, pero a pesar de ello, todas las medidas de seguridad tradicionales siguen siendo aplicables y fundamentales en la protección contra estas nuevas formas de ataques.
+Note: Sí bien es cierto que la Inteligencia Artificial (IA) introduce numerosos retos en cuanto a la sofisticación de las amenazas cibernéticas, pero a pesar de ello, todas las medidas de seguridad tradicionales siguen siendo aplicables y fundamentales en la protección contra estas nuevas formas de ataques. 
 
 ---
 

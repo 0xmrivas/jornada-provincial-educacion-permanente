@@ -316,7 +316,7 @@ Note:
 Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto más complejas y seguras hacemos nuestras contraseñas, más nos cuesta recordarlas y administrarlas. Aquí es donde entran en juego los gestores de contraseñas, verdaderos cofres digitales que nos liberan de la carga de memorizar incontables claves.
 
 
-### 
+### Gestores de contraseñas
 
 ¿Las ventajas? 
 
@@ -732,6 +732,12 @@ El nombre y apellidos de un alumno, de sus padres, su dirección, su número de 
 ### 
 - ¿Evento escolar? Avisemos a las familias de la NO difusión.
 <img class="r-stretch" style="text-align: center" src="../assets/decalogo_10.png">
+
+---
+
+## ¡Objetivo cumplido!
+
+<img class="r-stretch" style="text-align: center" src="../assets/objetivo-cumplido.webp">
 
 ---
 

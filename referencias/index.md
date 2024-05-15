@@ -2,7 +2,7 @@
 
 <a name="top"></a>
 
-## Índice de referencias
+## Índice
 * [Cuando los usb se vuelven contra nosotros](#cuando-los-usb-se-vuelven-contra-nosotros)
 * [Blindando tus dispositivos móviles](#blindando-tus-dispositivos-móviles)
 * [Actualizaciones, escudo digital](#actualizaciones-escudo-digital)
@@ -174,7 +174,7 @@
 
 - [Cómo activar la doble autenticación en Google - Video](https://www.youtube.com/watch?v=VPXexTD0zqA) (YouTube). Video instructivo que muestra cómo activar la doble autenticación en cuentas de Google.
 
-- [SMS Phishing Scam for Email Accounts | Symantec](https://www.youtube.com/watch?v=_dj_90TnVbo) (Symantec). Video que alerta sobre las estafas de phishing por SMS dirigidas a cuentas de correo electrónico y cómo protegerse.
+- [SMS Phishing Scam for Email Accounts](https://www.youtube.com/watch?v=_dj_90TnVbo) (Symantec). Video que alerta sobre las estafas de phishing por SMS dirigidas a cuentas de correo electrónico y cómo protegerse.
 
 
 [Ir al índice](#top)
